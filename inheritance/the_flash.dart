@@ -3,7 +3,7 @@
 // Subject: 6ADET
 // Prof: Mr. Ulyssess Raymond
 
-mport '../abstraction/justice_league_member.dart';
+import '../abstraction/justice_league_member.dart';
 
 class TheFlash extends JusticeLeagueMember {
   TheFlash() : super('The Flash', 'Speed Force');
